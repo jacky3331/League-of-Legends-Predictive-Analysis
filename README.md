@@ -4,11 +4,11 @@
 ## Project Updates
 - Improved upon the previous iteration of LoL-Analytics
 - Achieved ~77% accuracy with the latest version of League of Legends
-- 
+
 ## Content
 - League of Legends Webscraper (Riot Games API Cassiopeia)
 - Exploratory Data Analysis & Data Wrangling
 - Matchmatching predictive model (Should you dodge the queue?)
-- 
+
 ## Acknowledgements
 https://github.com/meraki-analytics/cassiopeia#cassiopeia
